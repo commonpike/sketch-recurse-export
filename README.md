@@ -1,5 +1,7 @@
 # RecursiveExport
-Plugin for Sketch.app to recursively export layers in a selected file structure
+Plugin for Sketch.app to recursively export layers in a selected file structure.
+
+I was surprised it didn't exist so I wrote it. If anyone knows an easier way to do this let me know.
 
 ## What it does 
 When selecting a layer in your canvas and running the script, the script
