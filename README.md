@@ -5,7 +5,7 @@ Plugin for Sketch.app to recursively export layers in a selected file structure
 When selecting a layer in your canvas and running the script, the script
 will prompt for an export directory and a desired export structure.
 Then it traverses your layers and exports each layer that has been
-marked exportable in all of the export formats defined for that layer.
+marked exportable in all of the export formats defined for that layer [^1].
 
 ## Screenshots
 
@@ -27,3 +27,10 @@ or
 
 or just a flat list of files named as the layer. 
 But you can do the latter without the plugin, just in Sketch > File > Export
+
+## Install
+
+Download the plugin from the **Releases** tab in this repo. Unzip and doubleclick on the `.sketchplugin` file to install. 
+It should now appear in Sketch.app under the menu item `Plugins`.
+
+[^1]: It ignores the size settings in your export format. If anyone can get that working, let me know.
