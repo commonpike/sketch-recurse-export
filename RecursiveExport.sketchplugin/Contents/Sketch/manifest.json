@@ -1,0 +1,24 @@
+{
+  "author" : "",
+  "commands" : [
+    {
+      "script" : "script.js",
+      "name" : "RecursiveExport",
+      "handlers" : {
+        "run" : "onRun"
+      },
+      "identifier" : "com.bohemiancoding.sketch.runscriptidentifier"
+    }
+  ],
+  "menu" : {
+    "title" : "RecursiveExport",
+    "items" : [
+      "com.bohemiancoding.sketch.runscriptidentifier"
+    ]
+  },
+  "identifier" : "com.example.sketch.6a1d451c-3dd8-470e-8768-c1e784d9e0e1",
+  "version" : "1.0",
+  "description" : "",
+  "authorEmail" : "",
+  "name" : "RecursiveExport"
+}
