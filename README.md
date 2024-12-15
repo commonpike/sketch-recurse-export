@@ -32,7 +32,7 @@ or
 
 <img width="278" alt="Screenshot 2024-12-14 at 11 16 45" src="https://github.com/user-attachments/assets/fc10b2af-b52e-4d8a-bbb3-9bc0fef7c5ff" />
 
-or just a flat list of files named as the layer. 
+or just a plain list of files named the same as the layer (with prefixes and postfixes from the export format). 
 
 But you can do the latter without the plugin, just in Sketch > File > Export
 
